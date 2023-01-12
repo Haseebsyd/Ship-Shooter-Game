@@ -1,2 +1,13 @@
-This is a fixed shooter arcade game
-- To run this file simply launch FinalProject.csproj
+C# fixed shooter arcade game (Mono Game)
+
+To run this file simply launch FinalProject.csproj
+
+o	Three rounds varying difficulty
+
+o	Perplexing background
+
+o	Animation when asteroids are destructed
+
+o 2 Different sound effects (1 on hit and 2 on game over)
+
+o	User can control ship with mouse and right click
